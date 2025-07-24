@@ -88,7 +88,7 @@ export default function Dashboard() {
         {/* Footer */}
         <div className="p-4 border-t border-gray-200">
           <div className="text-xs text-gray-500">
-            <p>&copy; 2024 Akshat Sogani</p>
+            <p>&copy; 2025 Akshat Sogani</p>
             <a 
               href="https://www.linkedin.com/in/akshat-sogani/" 
               target="_blank" 
